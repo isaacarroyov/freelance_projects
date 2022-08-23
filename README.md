@@ -1,1 +1,1 @@
-# Freelancing Projects
+# Freelance Projects
