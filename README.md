@@ -47,8 +47,9 @@ the client asked for a custom ggplot2 to use it many times,
 get the same results, need little time changing details and 
 could save time.
 
-Here's the theme with some data visualization examples of 
-charts that the client often uses.
+Here's the theme with some "dummy" data visualization 
+examples of charts that the client often uses.
 
 Data source: [Our World In Data](https://ourworldindata.org)
+
 ![](./00_custom_ggplot2_theme/00_ggplot2_theme_poster_line_bar_chart.png)
